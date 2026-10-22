@@ -1,0 +1,722 @@
+[
+ {
+  "id": "1",
+  "name": "Report 1",
+  "cluster": 0,
+  "x": -2.853086471557617,
+  "y": -10.563425064086914,
+  "keywords": [
+   "adichchanallur",
+   "murram",
+   "cannoid",
+   "urns",
+   "pyriform",
+   "grave",
+   "couex",
+   "silicified"
+  ],
+  "n_chunks": 200
+ },
+ {
+  "id": "2",
+  "name": "Report 2",
+  "cluster": 0,
+  "x": 3.1917872428894043,
+  "y": -7.6071038246154785,
+  "keywords": [
+   "bevelling",
+   "brushing",
+   "operative",
+   "nicked",
+   "barbs",
+   "glossy",
+   "stocky",
+   "kashmiri"
+  ],
+  "n_chunks": 525
+ },
+ {
+  "id": "3",
+  "name": "Report 3",
+  "cluster": 0,
+  "x": 1.8576993942260742,
+  "y": -9.894862174987793,
+  "keywords": [
+   "hulas",
+   "saharanpur",
+   "doab",
+   "carbonic",
+   "thinned",
+   "bargaon",
+   "pigment",
+   "bara"
+  ],
+  "n_chunks": 293
+ },
+ {
+  "id": "4",
+  "name": "Report 4",
+  "cluster": 0,
+  "x": 1.7663236856460571,
+  "y": -6.614616394042969,
+  "keywords": [
+   "tibba",
+   "kangans",
+   "sarainagar",
+   "pubic",
+   "kalibangan",
+   "kangan",
+   "nohar",
+   "chak"
+  ],
+  "n_chunks": 485
+ },
+ {
+  "id": "5",
+  "name": "Report 5",
+  "cluster": 0,
+  "x": -0.5307164192199707,
+  "y": -9.033461570739746,
+  "keywords": [
+   "suabarei",
+   "khordha",
+   "sasan",
+   "golabai",
+   "jagamohana",
+   "nirakarpur",
+   "odisha",
+   "kanasa"
+  ],
+  "n_chunks": 253
+ },
+ {
+  "id": "6",
+  "name": "Report 6",
+  "cluster": 0,
+  "x": 4.247220516204834,
+  "y": -11.645926475524902,
+  "keywords": [
+   "bekal",
+   "tippu",
+   "nayakas",
+   "paise",
+   "porcelain",
+   "ikkeri",
+   "sectioned",
+   "kanarese"
+  ],
+  "n_chunks": 74
+ },
+ {
+  "id": "7",
+  "name": "Report 7",
+  "cluster": 2,
+  "x": -0.6104349493980408,
+  "y": -4.513096809387207,
+  "keywords": [
+   "agroha",
+   "atanding",
+   "agroh",
+   "miling",
+   "troe",
+   "birch",
+   "bark",
+   "apodake"
+  ],
+  "n_chunks": 14
+ },
+ {
+  "id": "8",
+  "name": "Report 8",
+  "cluster": 2,
+  "x": -2.1311278343200684,
+  "y": -0.00017663906328380108,
+  "keywords": [
+   "syenaciti",
+   "amedha",
+   "sulba",
+   "puru",
+   "archacology",
+   "yenaciti",
+   "kaus",
+   "defences"
+  ],
+  "n_chunks": 21
+ },
+ {
+  "id": "9",
+  "name": "Report 9",
+  "cluster": 0,
+  "x": -0.22562897205352783,
+  "y": -7.884485721588135,
+  "keywords": [
+   "malvan",
+   "pollen",
+   "medullary",
+   "bhagatrav",
+   "jokha",
+   "ditch",
+   "tide",
+   "alur"
+  ],
+  "n_chunks": 143
+ },
+ {
+  "id": "10",
+  "name": "Report 10",
+  "cluster": 2,
+  "x": -1.1584885120391846,
+  "y": -3.271918773651123,
+  "keywords": [
+   "memorial",
+   "sannathi",
+   "shale",
+   "annie",
+   "ordinate",
+   "grid",
+   "revetment",
+   "chandralamba"
+  ],
+  "n_chunks": 24
+ },
+ {
+  "id": "11",
+  "name": "Report 11",
+  "cluster": 0,
+  "x": 0.2952381372451782,
+  "y": -10.80406379699707,
+  "keywords": [
+   "tuljapur",
+   "garhi",
+   "purna",
+   "tapi",
+   "jorwe",
+   "amraoti",
+   "malwa",
+   "snubbed"
+  ],
+  "n_chunks": 30
+ },
+ {
+  "id": "12",
+  "name": "Report 12",
+  "cluster": 2,
+  "x": -1.8297370672225952,
+  "y": -7.045707702636719,
+  "keywords": [
+   "elipped",
+   "dagat",
+   "ares",
+   "stome",
+   "pati",
+   "kutch",
+   "cream",
+   "uelty"
+  ],
+  "n_chunks": 4
+ },
+ {
+  "id": "13",
+  "name": "Report 13",
+  "cluster": 2,
+  "x": -2.5783982276916504,
+  "y": -0.07231610268354416,
+  "keywords": [
+   "micrograph",
+   "bhagwanpura",
+   "magnification",
+   "jammu",
+   "dadheri",
+   "aryans",
+   "bala",
+   "kurukshetra"
+  ],
+  "n_chunks": 32
+ },
+ {
+  "id": "14",
+  "name": "Report 14",
+  "cluster": 0,
+  "x": 3.334172010421753,
+  "y": -9.941201210021973,
+  "keywords": [
+   "tarkhanewala",
+   "dera",
+   "chak",
+   "oxidized",
+   "header",
+   "drab",
+   "hubs",
+   "unoxidized"
+  ],
+  "n_chunks": 84
+ },
+ {
+  "id": "15",
+  "name": "Report 15",
+  "cluster": 0,
+  "x": 3.5298004150390625,
+  "y": -9.441631317138672,
+  "keywords": [
+   "tarkhanewala",
+   "dera",
+   "chak",
+   "xalqd",
+   "alqdl",
+   "locus",
+   "zalqd",
+   "tmncated"
+  ],
+  "n_chunks": 77
+ },
+ {
+  "id": "16",
+  "name": "Report 16",
+  "cluster": 2,
+  "x": -3.767927885055542,
+  "y": 0.42811352014541626,
+  "keywords": [
+   "bharadv",
+   "ayodhy",
+   "rama",
+   "yana",
+   "volume",
+   "soundara",
+   "tank",
+   "project"
+  ],
+  "n_chunks": 4
+ },
+ {
+  "id": "17",
+  "name": "Report 17",
+  "cluster": 2,
+  "x": -3.455261468887329,
+  "y": 1.7857187986373901,
+  "keywords": [
+   "depot",
+   "oxus",
+   "barikot",
+   "gandh",
+   "abarchinar",
+   "afghan",
+   "swat",
+   "barger"
+  ],
+  "n_chunks": 18
+ },
+ {
+  "id": "18",
+  "name": "Report 18",
+  "cluster": 1,
+  "x": 5.402329921722412,
+  "y": -0.5123738050460815,
+  "keywords": [
+   "udayagiri",
+   "chaityagriha",
+   "chaityagnha",
+   "mudrd",
+   "recess",
+   "stupas",
+   "edifices",
+   "lalitagiri"
+  ],
+  "n_chunks": 72
+ },
+ {
+  "id": "19",
+  "name": "Report 19",
+  "cluster": 2,
+  "x": -2.0905091762542725,
+  "y": 1.4042611122131348,
+  "keywords": [
+   "wainganga",
+   "pauni",
+   "wardha",
+   "cyclopean",
+   "bahmani",
+   "rampart",
+   "stipulated",
+   "maratha"
+  ],
+  "n_chunks": 7
+ },
+ {
+  "id": "20",
+  "name": "Report 20",
+  "cluster": 2,
+  "x": -4.528254985809326,
+  "y": -0.5899158716201782,
+  "keywords": [
+   "pallavanesvaram",
+   "kaveripattinam",
+   "tamilnadu",
+   "kaveri",
+   "tamil",
+   "nadu",
+   "delta",
+   "rouletted"
+  ],
+  "n_chunks": 2
+ },
+ {
+  "id": "21",
+  "name": "Report 21",
+  "cluster": 2,
+  "x": -0.7295565605163574,
+  "y": 0.3937169313430786,
+  "keywords": [
+   "decipherment",
+   "naba",
+   "mudran",
+   "cemetery",
+   "harappa",
+   "indus",
+   "civilization",
+   "chapter"
+  ],
+  "n_chunks": 3
+ },
+ {
+  "id": "26",
+  "name": "Report 26",
+  "cluster": 1,
+  "x": 2.472295045852661,
+  "y": -2.4254910945892334,
+  "keywords": [
+   "cloister",
+   "saluvankuppam",
+   "subrahmanya",
+   "pallava",
+   "mamallapuram",
+   "garbhagriha",
+   "mukhamandapa",
+   "tsunami"
+  ],
+  "n_chunks": 130
+ },
+ {
+  "id": "27",
+  "name": "Report 27",
+  "cluster": 1,
+  "x": 2.473928213119507,
+  "y": -2.425490140914917,
+  "keywords": [
+   "cloister",
+   "saluvankuppam",
+   "subrahmanya",
+   "pallava",
+   "mamallapuram",
+   "garbhagriha",
+   "mukhamandapa",
+   "tsunami"
+  ],
+  "n_chunks": 130
+ },
+ {
+  "id": "28",
+  "name": "Report 28",
+  "cluster": 0,
+  "x": 1.5599855184555054,
+  "y": -11.700823783874512,
+  "keywords": [
+   "bharadvaja",
+   "asrama",
+   "chitrakuta",
+   "ballad",
+   "icpms",
+   "rior",
+   "pegs",
+   "phosphorous"
+  ],
+  "n_chunks": 134
+ },
+ {
+  "id": "29",
+  "name": "Report 29",
+  "cluster": 0,
+  "x": -1.9587339162826538,
+  "y": -9.626086235046387,
+  "keywords": [
+   "sarcophagus",
+   "siruthavur",
+   "dolmenoid",
+   "cist",
+   "capstone",
+   "camelian",
+   "unhewn",
+   "sarcophagi"
+  ],
+  "n_chunks": 47
+ },
+ {
+  "id": "30",
+  "name": "Report 30",
+  "cluster": 1,
+  "x": 6.286762237548828,
+  "y": -2.0306410789489746,
+  "keywords": [
+   "avalokitesvara",
+   "tenth",
+   "bhusparsa",
+   "udayagiri",
+   "monastery",
+   "pushpagiri",
+   "ratnagiri",
+   "bhauma"
+  ],
+  "n_chunks": 176
+ },
+ {
+  "id": "31",
+  "name": "Report 31",
+  "cluster": 1,
+  "x": 4.0387282371521,
+  "y": -1.4846726655960083,
+  "keywords": [
+   "hathi",
+   "sibi",
+   "madhyamika",
+   "nagari",
+   "dival",
+   "akbar",
+   "vasudeva",
+   "mahadeva"
+  ],
+  "n_chunks": 82
+ },
+ {
+  "id": "32",
+  "name": "Report 32",
+  "cluster": 0,
+  "x": 1.9415490627288818,
+  "y": -8.36132526397705,
+  "keywords": [
+   "crinkled",
+   "calcification",
+   "orwe",
+   "graffitti",
+   "malwa",
+   "retouch",
+   "outcurved",
+   "diaphyseal"
+  ],
+  "n_chunks": 846
+ },
+ {
+  "id": "33",
+  "name": "Report 33",
+  "cluster": 1,
+  "x": 5.715817451477051,
+  "y": -2.8460028171539307,
+  "keywords": [
+   "blackstone",
+   "mahiivihiira",
+   "antichak",
+   "paharpur",
+   "vikramasila",
+   "sahura",
+   "dharmapala",
+   "plaques"
+  ],
+  "n_chunks": 379
+ },
+ {
+  "id": "34",
+  "name": "Report 34",
+  "cluster": 1,
+  "x": 6.920702934265137,
+  "y": -5.51932954788208,
+  "keywords": [
+   "ofterracotta",
+   "pinholes",
+   "rajghat",
+   "headdress",
+   "catalogue",
+   "outstretched",
+   "remarks",
+   "ghat"
+  ],
+  "n_chunks": 64
+ },
+ {
+  "id": "35",
+  "name": "Report 35",
+  "cluster": 1,
+  "x": 6.051469326019287,
+  "y": -1.3797953128814697,
+  "keywords": [
+   "uttarasanga",
+   "antarvasa",
+   "abhayamudra",
+   "samapada",
+   "varamudra",
+   "chaityagriha",
+   "anda",
+   "paryankasana"
+  ],
+  "n_chunks": 365
+ },
+ {
+  "id": "36",
+  "name": "Report 36",
+  "cluster": 2,
+  "x": -0.02051427960395813,
+  "y": -5.386482238769531,
+  "keywords": [
+   "yusuf",
+   "paithan",
+   "nwnt",
+   "fuller",
+   "allocated",
+   "garbhagriha",
+   "balasaheb",
+   "kennet"
+  ],
+  "n_chunks": 724
+ },
+ {
+  "id": "37",
+  "name": "Report 37",
+  "cluster": 0,
+  "x": 4.604887962341309,
+  "y": -6.43539571762085,
+  "keywords": [
+   "ganwaria",
+   "piprahwa",
+   "frred",
+   "sakyas",
+   "kapilavastu",
+   "ganwarja",
+   "peppe",
+   "ftred"
+  ],
+  "n_chunks": 654
+ },
+ {
+  "id": "38",
+  "name": "Report 38",
+  "cluster": 0,
+  "x": 3.0037882328033447,
+  "y": -10.823468208312988,
+  "keywords": [
+   "dhalewan",
+   "mustikas",
+   "rnrn",
+   "sectioned",
+   "mustika",
+   "azure",
+   "kushan",
+   "pasting"
+  ],
+  "n_chunks": 507
+ },
+ {
+  "id": "39",
+  "name": "Report 39",
+  "cluster": 0,
+  "x": 1.1317466497421265,
+  "y": -8.93556022644043,
+  "keywords": [
+   "micacious",
+   "vidarbha",
+   "chandrapur",
+   "adam",
+   "wainganga",
+   "asika",
+   "bhandara",
+   "wardha"
+  ],
+  "n_chunks": 408
+ },
+ {
+  "id": "40",
+  "name": "Report 40",
+  "cluster": 0,
+  "x": 5.9061126708984375,
+  "y": -7.0872602462768555,
+  "keywords": [
+   "pendulous",
+   "etching",
+   "bullae",
+   "facetted",
+   "drilled",
+   "tabular",
+   "glassy",
+   "stumpy"
+  ],
+  "n_chunks": 127
+ },
+ {
+  "id": "41",
+  "name": "Report 41",
+  "cluster": 1,
+  "x": 7.251081943511963,
+  "y": -1.3974148035049438,
+  "keywords": [
+   "kanaganahalli",
+   "stopa",
+   "sannati",
+   "ayaka",
+   "stapa",
+   "barred",
+   "brahmin",
+   "vakshahara"
+  ],
+  "n_chunks": 463
+ },
+ {
+  "id": "42",
+  "name": "Report 42",
+  "cluster": 1,
+  "x": 3.681931972503662,
+  "y": -4.391274452209473,
+  "keywords": [
+   "kanaganahalli",
+   "sannati",
+   "stopa",
+   "deya",
+   "smudged",
+   "siri",
+   "pious",
+   "umavi"
+  ],
+  "n_chunks": 218
+ },
+ {
+  "id": "43",
+  "name": "Report 43",
+  "cluster": 0,
+  "x": -4.13973331451416,
+  "y": -5.727729320526123,
+  "keywords": [
+   "stretchers",
+   "bipartite",
+   "rhomb",
+   "headers",
+   "salient",
+   "header",
+   "thoroughfares",
+   "kalibangan"
+  ],
+  "n_chunks": 356
+ },
+ {
+  "id": "44",
+  "name": "Report 44",
+  "cluster": 0,
+  "x": 5.911223411560059,
+  "y": -9.381420135498047,
+  "keywords": [
+   "huffish",
+   "boss",
+   "sectioned",
+   "unicorn",
+   "peepal",
+   "kalibangan",
+   "checker",
+   "unicom"
+  ],
+  "n_chunks": 286
+ }
+]

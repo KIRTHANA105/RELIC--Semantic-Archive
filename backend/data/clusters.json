@@ -1,0 +1,47 @@
+[
+ {
+  "id": 0,
+  "size": 19,
+  "keywords": [
+   "glossy",
+   "ganwaria",
+   "sectioned",
+   "burzahom",
+   "harappan",
+   "retouched",
+   "oxidized",
+   "oblique"
+  ],
+  "label": "Glossy / Ganwaria / Sectioned"
+ },
+ {
+  "id": 1,
+  "size": 10,
+  "keywords": [
+   "kanaganahalli",
+   "stopa",
+   "avalokitesvara",
+   "uttarasanga",
+   "sculptured",
+   "blackstone",
+   "pallava",
+   "cloister"
+  ],
+  "label": "Kanaganahalli / Stopa / Avalokitesvara"
+ },
+ {
+  "id": 2,
+  "size": 11,
+  "keywords": [
+   "yusuf",
+   "nwnt",
+   "species",
+   "balasaheb",
+   "fuller",
+   "kennet",
+   "rebuilding",
+   "allocated"
+  ],
+  "label": "Yusuf / Nwnt / Species"
+ }
+]

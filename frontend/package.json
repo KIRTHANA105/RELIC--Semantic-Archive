@@ -1,0 +1,17 @@
+
+{
+  "name": "relic-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^15.5.28",
+    "postcss": "^8.5.31",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  }
+}
